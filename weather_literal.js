@@ -73,7 +73,7 @@ function gotData(data) {
   noStroke();
   if (current.icon == "clear-day") {
     fill(color("#93D4DA"));
-    var back = "##93D4DA";
+    var back = "#93D4DA";
   }
   if (current.icon == "clear-night") {
     fill(color("#1C0E37"));
